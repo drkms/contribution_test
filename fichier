@@ -24,3 +24,20 @@ Salut je m'appelle Audrey et je trouve ce texte passionnant !
 Ce message a été tapé consciencieusement en tirant partie de mes pouces opposables.
 Cordialement, 
 Nyman
+
+Hello c'est Nono et j'ai enfin compris les consignes
+
+Hello, c'est Amélie ! 
+
+Hello World from CLaudia's Land!
+I have a tip for debugging what never bugs
+Guess what? I can't wait to share it with you!
+Check this out:
+ 
+onInit(){
+	do{
+	this.sleep();
+	}
+	while(this.sleepy())
+}
+Thank me later Humanity!
