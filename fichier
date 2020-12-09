@@ -20,3 +20,16 @@ print("c'est interessant l'open source ")}
 contribution Marouen 
 
 Salut je m'appelle Audrey et je trouve ce texte passionnant !
+
+Hello World from CLaudia's Land!
+I have a tip for debugging what never bugs
+Guess what? I can't wait to share it with you!
+Check this out:
+ 
+onInit(){
+	do{
+	this.sleep();
+	}
+	while(this.sleepy())
+}
+Thank me later Humanity!
