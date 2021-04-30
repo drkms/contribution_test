@@ -47,3 +47,14 @@ Je m'appelle Nicolas et je debute dans l'humour
 Content de participer a l'elaboration de ce document collaboratif ;)
 
 Salut, c'est olivier ! Bon le chat est à la SPA ;)
+
+Heya people, contente de voir les contribs de mes amis de l'AL06 !
+
+PS : Claudia, l'alternative insomniaque : while 
+onInit(){
+        do{
+        this.thinkAboutAllYourMistakesInLife();
+        }
+        while(this.sleepy())
+}
+
